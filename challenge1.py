@@ -1,5 +1,5 @@
 import streamlit as st
-st.header("Buffy Clackson")
+st.header("Buffy-C")
 
 st.image("BCImage.jpg")
 st.markdown("""
