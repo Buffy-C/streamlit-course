@@ -1,0 +1,14 @@
+# Virtual environment
+env/
+venv/
+*.venv
+
+# Course resource downloads (large, not personal work)
+*.zip
+__MACOSX/
+
+# OS / editor cruft
+.DS_Store
+.vscode/
+__pycache__/
+*.pyc
