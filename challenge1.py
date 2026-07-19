@@ -4,7 +4,7 @@ st.header("Buffy Clackson")
 st.image("BCImage.jpg")
 st.markdown("""
 
-\n [My Linkedn profile](https://www.linkedin.com/in/elizabeth-clackson)
+\n [My Linkedn profile](https://www.linkedin.com/in/profile-name)
 1. Ambitious
 2. Inquisitive
 3. Empathetic
